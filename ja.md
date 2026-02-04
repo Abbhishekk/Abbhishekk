@@ -16,7 +16,7 @@ lang: ja
 | Email | [abhishekbante01@gmail.com](mailto:abhishekbante01@gmail.com) |
 | LinkedIn | [https://www.linkedin.com/in/abhishek-bante/](https://www.linkedin.com/in/abhishek-bante/) |
 | Portfolio | [https://abbhishek-portfolio.netlify.app/](https://abbhishek-portfolio.netlify.app/) |
-| GitHub | [https://github.com/Akash12233](https://github.com/Abbhishekk) |
+| GitHub | [https://github.com/Abbhishekk](https://github.com/Abbhishekk) |
 
 ## 学歴
 
